@@ -1,0 +1,1 @@
+Given a text file and a corresponding table file listing each letter's width in pixels, calculate the number of pixels required to render each line to measure gains of a variable-width font.
